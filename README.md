@@ -3,6 +3,10 @@
 ## 📌 Description  
 Customer churn analysis using SQL and Power BI to identify key drivers of customer attrition and revenue loss. Highlights high-risk segments based on tenure, contract type, and services. Includes an interactive dashboard and actionable insights to improve retention and customer lifetime value.  
 
+<img width="1177" height="665" alt="Screenshot 2026-04-10 145840" src="https://github.com/user-attachments/assets/ed19f05f-ec9b-4ab9-ae91-f81296bc3754" />
+<img width="1160" height="648" alt="Screenshot 2026-04-10 145902" src="https://github.com/user-attachments/assets/5d341ef6-ac07-4f8c-bca2-f643fba0b6d4" />
+<img width="1160" height="652" alt="Screenshot 2026-04-10 145920" src="https://github.com/user-attachments/assets/3d07c4f2-7473-484d-9e9c-34211e8c5323" />
+
 ---
 
 ## 🚀 Project Overview  
